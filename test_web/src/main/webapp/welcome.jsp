@@ -8,5 +8,8 @@
 </head>
 <body>
 	welcome welcome.jsp
+	
+	call by value
+	call by reference
 </body>
 </html>
